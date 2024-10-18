@@ -1,6 +1,5 @@
 # One_for_All Framework Usage Details
 
-
 **Usage Details:** 
 
 1. Install Python 3.8
@@ -19,8 +18,6 @@ For zero-shot forecasting, visit:
 https://github.com/rakshitha123/TSForecasting
 
 Place the downloaded dataset into the ./datasets folder.
-
-
 
 
 **Acknowledgement:**
