@@ -9,9 +9,17 @@
 3. Detailed instructions are provided in each task-specific folder
 
 **Dataset Details:**
+
 Access datasets and benchmark for long-term forecasting, few-shot forecasting, and anomaly detection at:
 
 https://github.com/thuml/Time-Series-Library
+
+For zero-shot forecasting, visit:
+
+https://github.com/rakshitha123/TSForecasting
+
+Place the downloaded dataset into the ./datasets folder.
+
 
 
 
