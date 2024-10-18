@@ -23,7 +23,7 @@ Place the downloaded dataset into the ./datasets folder.
 
 
 
-Acknowledgement:
+**Acknowledgement:**
 
 We appreciate the following GitHub repositories for their codebase and datasets:
 
