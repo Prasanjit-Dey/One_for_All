@@ -23,6 +23,19 @@ Place the downloaded dataset into the ./datasets folder.
 
 
 
+Acknowledgement:
+
+We appreciate the following GitHub repositories for their codebase and datasets:
+
+https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All
+
+https://github.com/thuml/Time-Series-Library
+
+https://github.com/rakshitha123/TSForecasting
+
+
+
+
 
    
 
