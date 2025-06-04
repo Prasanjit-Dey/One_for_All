@@ -1,0 +1,19 @@
+python /home/pdey/spinning-storage/pdey/NeurIPS2024/Classification_One_for_All/src/main.py \
+    --output_dir experiments \
+    --comment "classification from Scratch" \
+    --name EthanolConcentration_Rank1024 \
+    --records_file Ethanol_Rank1024.xls \
+    --data_dir /home/pdey/spinning-storage/pdey/NeurIPS2024/datasets/EthanolConcentration \
+    --data_class tsra \
+    --pattern TRAIN \
+    --val_pattern TEST \
+    --epochs 50 \
+    --lr 0.001 \
+    --patch_size 8 \
+    --stride 8 \
+    --optimizer RAdam \
+    --d_model 768 \
+    --pos_encoding learnable \
+    --task classification \
+    --key_metric accuracy \
+    --rank 1024
